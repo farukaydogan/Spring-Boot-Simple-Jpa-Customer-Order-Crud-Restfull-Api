@@ -29,6 +29,7 @@ mvn spring-boot:run
 
 This command starts your application and runs at http://localhost:8080 by default.
 
+<img width="1103" alt="Screenshot 2023-09-11 at 15 48 52" src="https://github.com/farukaydogan/Spring-Boot-Simple-Jpa-Customer-Order-Crud-Restfull-Api/assets/57232389/2af1dc43-f9d8-4d5c-a58d-d230785e5120">
 
 
 
